@@ -1,0 +1,7 @@
+all: compile link
+
+compile:
+	g++ -m64 -std=gnu++11 -Isrc/include -c scripts/main.cpp
+
+link:
+	g++ -m64 -std=gnu++11 main.o -o SoftTetris -static-libstdc++ -static-libgcc -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system -lopengl32 -lwinmm -lgdi32 -lmingw32

@@ -1,0 +1,25 @@
+particles.push_back(Particle(x0, y0, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0, y0 + 1.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0, y0 + 2.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0, y0 + 3.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0, y0 + 4.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 1.0f * edge, y0, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 1.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 1.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 1.0f * edge, y0 + 3.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 1.0f * edge, y0 + 4.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 2.0f * edge, y0, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 3.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 4.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 3.0f * edge, y0, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 3.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 4.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 4.0f * edge, y0, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 4.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 4.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 4.0f * edge, y0 + 3.0f * edge, radius, mass, color)); // particle_30
+particles.push_back(Particle(x0 + 4.0f * edge, y0 + 4.0f * edge, radius, mass, color)); // particle_30

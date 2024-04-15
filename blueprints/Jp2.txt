@@ -1,0 +1,10 @@
+particles.push_back(Particle(x0, y0, radius, mass, color)); // particle_0
+particles.push_back(Particle(x0 + 1.0f * edge, y0, radius, mass, color)); // particle_1
+particles.push_back(Particle(x0 + 2.0f * edge, y0, radius, mass, color)); // particle_2
+particles.push_back(Particle(x0, y0 + 1.0f * edge, radius, mass, color)); // particle_3
+particles.push_back(Particle(x0 + 1.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_4
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_5
+particles.push_back(Particle(x0 + 3.0f * edge, y0, radius, mass, color)); // particle_6
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 1.0f * edge, radius, mass, color)); // particle_7
+particles.push_back(Particle(x0 + 2.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_8
+particles.push_back(Particle(x0 + 3.0f * edge, y0 + 2.0f * edge, radius, mass, color)); // particle_9
